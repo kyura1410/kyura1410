@@ -1,18 +1,16 @@
-<h1 align="center">yoo ada apa kesini <img src="https://telegra.ph/file/ea06f58ea001a2de54471.jpg" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">Konnichiwa!<img src="https://i.pinimg.com/736x/9a/34/a4/9a34a4c563b1d5dc2380ae5e25d96483.jpg" style="border-radius:5;" width="45px" alt=""><br></h1> 
 <p align="center">
 <a href="https://youtube.com/c/KYURA"><img align="center" height="auto" src="https://telegra.ph/file/af5c140fee9800a1a21a0.jpg"/></a>
 
 <p align="center">
-u see the comet right?
+Masih awam awam
 
 ------
 
 ### kontak 
 <p align="center">
-  <a href="https://instagram.com/kyura.senpai"><img src="https://img.shields.io/badge/Instagram-483D8B?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6281998903280"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+  <a href="https://instagram.com/kyura.jpg"><img src="https://img.shields.io/badge/Instagram-483D8B?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
-  
 ------
 
 ### Subscribe YouTube
