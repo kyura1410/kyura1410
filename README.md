@@ -3,22 +3,13 @@
 <a href="https://youtube.com/c/KYURA"><img align="center" height="auto" src="https://telegra.ph/file/af5c140fee9800a1a21a0.jpg"/></a>
 
 <p align="center">
-Masih awam awam
+Masih meraba soal coding
 
 ------
 
 ### kontak 
 <p align="center">
   <a href="https://instagram.com/kyura.jpg"><img src="https://img.shields.io/badge/Instagram-483D8B?style=for-the-badge&logo=instagram&logoColor=white"/> 
-
-------
-
-### Subscribe YouTube
-<p align="center">
-<a href="https://youtube.com/c/KYURA"><img align="center" height="auto" src="https://telegra.ph/file/029a3f5d5c7d62050344c.png"/></a><br><br>
-<a href="https://youtube.com/c/KYURA"><img src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
-</a><br>
-<p align="center">
 
 ------
 
